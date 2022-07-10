@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Nanum+Gothic&display=swap');
+
+:root {
+  --signature-color: #5bb9b2
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.dragging {
+  user-select: none;
+}
